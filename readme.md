@@ -8,7 +8,7 @@
 
 <!-- subtitle -->
 
-An awesome list of things for the chat ItChat.
+An awesome list of things for the chat Zaun.
 
 <!-- image -->
 
@@ -32,12 +32,12 @@ Chat, voice and streaming platform
 
 ## API Libraries
 
-- [Itchat.js](https://github.com/itchatapp/itchat.js) - Official JavaScript library
-- [Itchat.py](https://github.com/itchatapp/itchat.py) - Official Python library
+- [zaun.js](https://github.com/zaunchat/zaun.js) - Official JavaScript library
+- [zaun.py](https://github.com/zaunchat/zaun.py) - Official Python library
 
 
 ## Clients
-- [Offical](https://github.com/itchatapp/client) - Official webapp client
+- [Offical](https://github.com/zaunchat/client) - Official webapp client
 
 ## Bots
 
